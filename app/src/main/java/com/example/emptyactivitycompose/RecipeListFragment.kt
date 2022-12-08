@@ -58,7 +58,7 @@ class RecipeListFragment : Fragment() {
                             findNavController().navigate(R.id.action_recipeListFragment_to_recipeFragment)
                         }
                     ) {
-                        Text(text = "TO RECIPE FRAGMENT")
+                        Text(text = "TO RECIPE FRAGMENT TEST")
                     }
                 }
             }
